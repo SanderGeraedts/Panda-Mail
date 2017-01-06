@@ -6,7 +6,11 @@ Panda Mail aims to deliver a GMail-like experience, without requiring a GMail Ac
 
 ## Feature List
 
-### Version 1.0
+### Version 1.1.0
+- [ ] Seperate Frontend
+- [ ] Mobile App (Either native Android or Hybrid)
+
+### Version 1.0.0
 - [ ] User Signup (Priority: Must)
 - [ ] Setup multiple Mail Account (Priority: Must)
 - [ ] IMAP Support (Priority: Must)
